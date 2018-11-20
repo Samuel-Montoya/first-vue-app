@@ -50,6 +50,9 @@
             </span>
           </p>
         </div>
+        <a 
+          class="button is-info" 
+          style="width: 100%">Login</a>
       </div>
       <div v-else>
         <h1 class="title is-3">Register</h1>
@@ -84,6 +87,9 @@
             </span>
           </p>
         </div>
+        <a 
+          class="button is-primary" 
+          style="width: 100%">Register</a>
       </div>
     </div>
   </section>
